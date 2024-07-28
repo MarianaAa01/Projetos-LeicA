@@ -18,3 +18,15 @@
 <a href="https://github.com/MarianaAa01/lp-projeto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=vue-dark&repo=lp-projeto" />
 </a>
+
+<br><br>
+
+**IAC** (Introdução à Arquitetura de Computadores)
+
+<a href="https://github.com/MarianaAa01/iac-projeto-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=vue-dark&repo=iac-projeto-1" />
+</a>
+
+<a href="https://github.com/MarianaAa01/iac-projeto-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=vue-dark&repo=iac-projeto-2" />
+</a>
