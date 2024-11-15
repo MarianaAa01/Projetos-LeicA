@@ -30,3 +30,5 @@
 <a href="https://github.com/MarianaAa01/iac-projeto-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=vue-dark&repo=iac-projeto-2" />
 </a>
+
+**PO** (Programação por Objetos)
