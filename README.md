@@ -31,7 +31,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=vue-dark&repo=iac-projeto-2" />
 </a>
 
-<br><br>
+<br><hr><br>
 
 **PO** (Programação por Objetos)
 
