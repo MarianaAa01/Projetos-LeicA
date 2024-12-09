@@ -46,6 +46,3 @@
 <a href= "https://github.com/MarianaAa01/asa-projeto1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=vue-dark&repo=asa-projeto1" />
 </a>
-<a href= "https://github.com/MarianaAa01/asa-projeto2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=vue-dark&repo=asa-projeto2" />
-</a>
