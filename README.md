@@ -41,4 +41,8 @@
 
 <br><br>
 
+**ASA** (Análise e Síntese de Algoritmos)
 
+<a href= "[https://github.com/MarianaAa01/asa-projeto1](https://github.com/MarianaAa01/asa-projeto1)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=vue-dark&repo=asa-projeto1" />
+</a>
