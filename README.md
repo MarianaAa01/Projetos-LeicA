@@ -50,6 +50,10 @@
 <a href="https://github.com/MarianaAa01/asa-projeto2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=vue-dark&repo=asa-projeto2" />
 </a>
+<br>
+<a href="https://github.com/MarianaAa01/asa-projeto3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=vue-dark&repo=asa-projeto3" />
+</a>
 
 <br><br>
 
