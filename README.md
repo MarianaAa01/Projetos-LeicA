@@ -58,3 +58,6 @@
 <br><br>
 
 **SO** (Sistemas Operativos)
+<a href="https://github.com/MarianaAa01/so-projeto2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=vue-dark&repo=so-projeto2" />
+</a>
