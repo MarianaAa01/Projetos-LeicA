@@ -78,3 +78,6 @@
 <a href="https://github.com/MarianaAa01/pe-projeto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarianaAa01&theme=vue-dark&repo=ia-projeto" />
 </a>
+
+<br><hr>
+### 3º ano
